@@ -7,6 +7,11 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: "Amazinum Test",
+    description: "Some description about our Amazinum website",
+    author: "@Anatolii Tserkunyk",
+  },
   /**
    * Adding plugins to this array adds them to your Gatsby site.
    *
